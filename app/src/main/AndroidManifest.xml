@@ -23,7 +23,7 @@
 
             android:exported="true" />
         <activity
-            android:name=".view.Register_Activity"
+            android:name=".view.Register.Activities.Register_Activity"
             android:exported="false" />
         <activity
             android:name=".view.ListRoutes.Activities.ListRouteActivity"

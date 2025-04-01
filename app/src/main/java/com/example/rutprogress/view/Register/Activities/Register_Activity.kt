@@ -1,4 +1,4 @@
-package com.example.rutprogress.view
+package com.example.rutprogress.view.Register.Activities
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
