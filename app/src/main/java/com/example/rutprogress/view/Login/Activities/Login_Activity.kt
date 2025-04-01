@@ -1,4 +1,4 @@
-package com.example.rutprogress.view
+package com.example.rutprogress.view.Login.Activities
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
